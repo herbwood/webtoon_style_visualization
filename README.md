@@ -48,7 +48,7 @@
 
 웹툰 그림체를 시각화한 결과는 다음과 같습니다. 
 
-![visualization_by_images](https://user-images.githubusercontent.com/35513025/82119817-7de49680-97bc-11ea-9cb9-073becc73fc5.jpg)
+![visualization_by_images (2) (1)](https://user-images.githubusercontent.com/35513025/82119913-2dba0400-97bd-11ea-952e-e1034116f9fe.jpg)
 
 ![visualization_by_thumnail](https://user-images.githubusercontent.com/35513025/82119820-7fae5a00-97bc-11ea-9bdc-7871266662ac.jpg)
 
