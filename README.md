@@ -4,7 +4,7 @@
 
 ## About The Project
 
-![webtoon_thumnails](https://user-images.githubusercontent.com/35513025/82119422-67890b80-97b9-11ea-9cb6-ecc203b93217.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119422-67890b80-97b9-11ea-9cb6-ecc203b93217.jpg" width="700px"></p>
 
 현재 NAVER에서 연재되고 있는 웹툰의 그림체의 분포를 시각화함으로써 그림체 간의 유사도를 직관적으로 파악할 수 있습니다. 또한 K-Means Clustering와 같은 비지도 학습을 통해 웹툰의 그림체에 label을 매기는 것이 가능해집니다. 이는 추후 웹툰의 선호도를 분석하는데 유의미한 속성으로 활용될 수 있을 것입니다(ex) 성별 선호하는 그림체 분석).
 
@@ -48,8 +48,8 @@
 
 웹툰 그림체를 시각화한 결과는 다음과 같습니다. 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119913-2dba0400-97bd-11ea-952e-e1034116f9fe.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119913-2dba0400-97bd-11ea-952e-e1034116f9fe.jpg" width="1000px"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119820-7fae5a00-97bc-11ea-9bdc-7871266662ac.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119820-7fae5a00-97bc-11ea-9bdc-7871266662ac.jpg" width="800px"></p>
 
 프로젝트에 대한 세부 사항은 제 [블로그](https://herbwood.github.io/)를 참고하시길 바랍니다. 
