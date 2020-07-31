@@ -48,8 +48,8 @@
 
 웹툰 그림체를 시각화한 결과는 다음과 같습니다. 
 
-![visualization_by_images (2) (1)](https://user-images.githubusercontent.com/35513025/82119913-2dba0400-97bd-11ea-952e-e1034116f9fe.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119913-2dba0400-97bd-11ea-952e-e1034116f9fe.jpg"></p>
 
-![visualization_by_thumnail](https://user-images.githubusercontent.com/35513025/82119820-7fae5a00-97bc-11ea-9bdc-7871266662ac.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/35513025/82119820-7fae5a00-97bc-11ea-9bdc-7871266662ac.jpg"></p>
 
 프로젝트에 대한 세부 사항은 제 [블로그](https://herbwood.github.io/)를 참고하시길 바랍니다. 
